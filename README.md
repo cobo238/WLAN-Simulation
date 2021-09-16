@@ -14,4 +14,9 @@ $ make
 $ ./main {lambda} {number of hosts}
 
 Do not include brackets  
-Lambda is from 0 to 1 amd the number of hosts can only be positive integers 
+Lambda is from 0 to 1 amd the number of hosts can only be positive integers  
+
+### Documentation  
+
+To read the Program Logic and Analysis [Click Here](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:f6b5e4b2-530d-443c-b487-6cf0c29b3591).
+
